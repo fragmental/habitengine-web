@@ -1,0 +1,12 @@
+# Project binaries
+node_modules
+
+# Misc
+*.bck
+
+# OS X Finder metadata
+*.DS_Store
+.LSOverride
+
+# Sublime Project metadata
+*.sublime-workspace
